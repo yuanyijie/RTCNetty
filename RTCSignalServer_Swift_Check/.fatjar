@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jun 05 07:40:18 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=RTCSignalServer_Swift_Check_fat.jar
+manifest.mergeall=true
+manifest.mainclass=yuan.server.SignalServer
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

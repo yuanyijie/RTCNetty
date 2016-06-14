@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="mylib/jboss-marshalling-1.3.0.CR9.jar"/>
+	<classpathentry kind="lib" path="mylib/jboss-marshalling-serial-1.3.0.CR9.jar"/>
+	<classpathentry kind="lib" path="mylib/netty-all-5.0.0.Alpha2.jar"/>
+	<classpathentry kind="lib" path="mylib/fastjson-1.2.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
