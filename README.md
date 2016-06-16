@@ -1,7 +1,7 @@
 # RTCNetty
 A simple webrtcdemo for android. Contains a signaling server based on Netty.
 
-# Before run
+# Before running
 
 1. Write your ip address on ServerConfig.java and ClientConfig.java
 
